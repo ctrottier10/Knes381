@@ -28,4 +28,7 @@
 
 Messi| Ronaldo | Pele
 -----|---------|--------------
-goat | goat #2 | all time goat
+goat| goat #2 | all time goat
+![download](https://github.com/ctrottier10/Knes381/assets/157738786/aedd32e3-48c6-4081-b6b0-1ade5da2f8db) | ![download](https://github.com/ctrottier10/Knes381/assets/157738786/6763754e-fa2e-4673-aef3-112f55cdcce1) |![download](https://github.com/ctrottier10/Knes381/assets/157738786/f8b942a2-10d7-435e-98ef-e9d48c340cd2)
+
+
