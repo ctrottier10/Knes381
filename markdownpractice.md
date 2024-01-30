@@ -5,7 +5,7 @@
 + bullet list
 + second item bullet list
 
-[go to table of greats!](## The-Table-of-Greats)
+[go to table of greats!](##-The-Table-of-Greats)
 
 ## My Shopping List 🍎
 - [ ] Milk
