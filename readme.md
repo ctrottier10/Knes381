@@ -5,8 +5,9 @@
 + bullet list
 + second item bullet list
 
-## My Shopping List
-:red_apple:
+## My Shopping List 🍎
 - [ ] Milk
 - [x] Eggs
 - [ ] Cheese
+
+![picture alt](dog.png)
