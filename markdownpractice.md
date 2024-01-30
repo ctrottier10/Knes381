@@ -10,7 +10,7 @@
 - [x] Eggs
 - [ ] Cheese
 
-![pngtree-smile-dog-on-white-background-png-image_9160783](https://github.com/ctrottier10/Knes381/assets/157738786/7fcff63f-ac9a-4670-9eec-258d61f1dc4f)
+![pngtree-smile-dog-on-white-background-png-image_9160783](https://github.com/ctrottier10/Knes381/assets/157738786/7fcff63f-ac9a-4670-9eec-258d61f1dc4f =250x250)
 
 ---------------------------------------------------------------------------------------------------------
 
