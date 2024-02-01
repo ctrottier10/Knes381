@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1 align="center"> Welcome To My Page</h1>
