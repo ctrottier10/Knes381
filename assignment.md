@@ -14,11 +14,17 @@
       Don't worry this time it is actually happy
     <th><a href="/Pictures/dog.png">Subfolder Dog Pic</a></th>
   </tr>
+  <tr>
+    <th>This area is for my colour because the one below looks funny on html</th>
+    <th><p style="color:red;">Look it is Red!</p></th>
+  </tr>
 </table>
 
 </html>
 
 ----------------------------------------------------------------------
+
+[Backup Link Because Other Doesn't Render Properly](Pictures/dog.png)
 
 <h1>Finally Added Some Colour... I Guess?</h1>
 
