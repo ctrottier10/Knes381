@@ -10,8 +10,7 @@
       <th>H<sub>2</sub>O</th>
     </tr>
     <tr>
-      <th>Okay, here is another dog picture just because.
-      Don't worry this time it is actually happy
+      <th>Okay, here is another dog picture just because. Don't worry this time it is actually happy
       <th><a href="/Pictures/dog.png">Subfolder Dog Pic</a></th>
     </tr>
     <tr>
