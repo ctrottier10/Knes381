@@ -1,6 +1,4 @@
-
 <html>
-<body>
 <h1 align="center"> Welcome To My Page</h1>
 <table>
   <tr>
@@ -14,11 +12,10 @@
   <tr>
     <th>Okay, here is another dog picture just because.
       Don't worry this time it is actually happy
-    <th><a href="/Pictures/dog.png">Subfolder Dog Pic</a></p></th>
+    <th><a href="/Pictures/dog.png">Subfolder Dog Pic</a></th>
   </tr>
 </table>
 
-</body>
 </html>
 
 ----------------------------------------------------------------------
@@ -34,6 +31,6 @@
 <details>
 <summary>The Dot...</summary>
 
-## V&#x0307;O<sub>2</sub>
+V&#x0307;O<sub>2</sub>
 
 </details>
