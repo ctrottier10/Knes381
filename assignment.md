@@ -27,8 +27,7 @@
 
 [Backup Link Because Other Doesn't Render Properly](Pictures/dog.png)
 
-
-<h1>Finally Added Some Colour... I Guess?</h1>
+## Finally Added Some Colour... I Guess?
 
 ```diff
 + This is technically green
