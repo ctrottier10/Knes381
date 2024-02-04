@@ -19,7 +19,6 @@
       <th><p style="color:red;">Look it is Red!</p></th>
     </tr>
   </table>
-
 </body>
 </html>
 
