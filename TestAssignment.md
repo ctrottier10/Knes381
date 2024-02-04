@@ -3,12 +3,12 @@
 <h1 align="center"> Welcome To My Page</h1>
 <table>
   <tr>
-    <th>Here is my dog! He looks so happy!</th>
-    <th><img width="250" height="250" src="https://github.com/ctrottier10/Knes381/assets/157738786/f442b401-8a51-4915-8a91-ea338991a96e"></th>
+    <th>Here is my dog, he looks so happy!</th>
+    <th><img width="350" height="350" src="https://github.com/ctrottier10/Knes381/assets/157738786/f442b401-8a51-4915-8a91-ea338991a96e"></th>
   </tr>
   <tr>
     <th>This is my subscript</th>
-    <th>Vo<sub>2</sub></th>
+    <th>H<sub>2</sub>O</th>
   </tr>
   <tr>
     <th>Such beautiful text</th>
@@ -24,8 +24,8 @@
 
 ---------------------------------------------------------------------
 <details>
-<summary>Finally in this sercret doc is my VO2 with a dot!</summary>
+<summary>Finally in this secret drop down is my dot!</summary>
 
-## V&#x0307;O2
+V&#x0307;O2
 
 </details>
