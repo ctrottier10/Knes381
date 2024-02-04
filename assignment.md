@@ -1,7 +1,6 @@
 <html>
 <body>
   <h1 align="center"> Welcome To My Page</h1>
-  
   <table>
     <tr>
       <th>Here is my dog, isn't he just so happy!</th>
@@ -12,18 +11,21 @@
       <th>H<sub>2</sub>O</th>
     </tr>
     <tr>
-      <th>Here is another dog picture.
+      <th>Here is another dog picture.</th>
       <th><a href="/Pictures/dog.png">Subfolder Dog Pic</a></th>
     </tr>
     <tr>
       <th>This area is for my colour because the one below looks funny on html</th>
       <th><p style="color:red;">Look it is Red!</p></th>
     </tr>
-</table>
+  </table>
+
+</body>
+</html>
 
 [Backup Link Because Other Doesn't Render Properly](Pictures/dog.png)
 
-<h2>Finally Added Some Colour... I Guess?</h2>
+# Finally Added Some Colour... I Guess?
 
 ```diff
 + This is technically green
@@ -34,6 +36,3 @@
 <summary>The Dot.</summary>
 V&#x0307;O<sub>2</sub>
 </details>
-
-</body>
-</html>
