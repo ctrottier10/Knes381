@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <th>Here is another dog picture.</th>
-      <th><a href="/Pictures/dog.png">Subfolder Dog Pic</a></th>
+      <th><a href="/Knes381/Pictures/dog.png">Subfolder Dog Pic</a></th>
     </tr>
     <tr>
       <th>This area is for my colour because the one below looks funny on html</th>
