@@ -15,7 +15,7 @@
       <th><a href="/Knes381/Pictures/dog.png">Subfolder Dog Pic</a></th>
     </tr>
     <tr>
-      <th>This area is for my colour because the one below looks funny on html</th>
+      <th>Here is coloured text</th>
       <th><p style="color:red;">Look it is Red!</p></th>
     </tr>
   </table>
@@ -23,7 +23,7 @@
 </html>
 
 
-# Finally Added Some Colour... I Guess?
+# Some More Colour!
 
 ```diff
 + This is technically green
