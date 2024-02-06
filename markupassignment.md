@@ -22,7 +22,6 @@
 </body>
 </html>
 
-[Backup Link Because Other Doesn't Render Properly](Pictures/dog.png)
 
 # Finally Added Some Colour... I Guess?
 
